@@ -5,7 +5,10 @@ Achieved rank of 730 out of 1214 participants
 
 
 Transformation:Random Rotation for both train and test
+
 Batch Size:32
+
 Optimizer:Adam
+
 Loss:Cross Entropy Loss
 
